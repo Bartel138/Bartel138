@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Bonjour, je suis Bartel
 
-<!--
-**Bartel138/Bartel138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenue sur mon portfolio de **Data Analyst** ! Cet espace centralise mes projets et mes réalisations en lien avec l'analyse et le traitement des données.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Mes Projets
+
+### 📊 1. Analyse et Segmentation Client (SQL / MySQL)
+* **Description** : Extraction de la valeur client (segment VIP) sur la base Sakila, résolution de limites relationnelles par jointures et nettoyage de données textuelles.
+* **Outils** : SQL, MySQL Workbench.
+* **Statut** : Terminé ✅
+
+*(D'autres projets viendront s'ajouter ici au fur et à mesure !)*
