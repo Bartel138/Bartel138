@@ -6,6 +6,46 @@ Bienvenue sur mon portfolio de **Data Analyst** ! Cet espace centralise mes proj
 
 ## 🚀 Mes Projets
 
+# 🚀 Laura E-commerce - Portfolio SQL & Python
+
+## 📋 Description Générale
+Ce portfolio rassemble les projets structurants de l'écosystème technique de la marque e-commerce **Laura**. Chaque dépôt représente une brique logique, combinant la modélisation et le traitement SQL (DDL, modélisation relationnelle, segmentation RFM) ainsi que la programmation Python (génération de données de test et scripts d'automatisation).
+
+---
+
+## 📐 1. Conception et Schéma Relationnel
+* **Lien du dépôt :** [02_database_ddl_laura-ecommerce-france](https://github.com/Bartel138/02_database_ddl_laura-ecommerce-france)
+* **Description :** Phase de conception en amont et de réflexion sur la modélisation des entités, posant les bases relationnelles et l'architecture des tables pour structurer l'écosystème e-commerce.
+* **Mots-clés / Stack :** `SQL`, `Modélisation`, `Architecture`, `Conception de Base de Données`, `E-commerce`.
+
+---
+
+## 🗄️ 2. Création de la Base de Données et des Tables (DDL)
+* **Lien du dépôt :** [02_database_ddl_laura-ecommerce-france](https://github.com/Bartel138/02_database_ddl_laura-ecommerce-france)
+* **Description :** Script SQL complet de création de la base de données et des tables. Intégration de la gestion des types de données optimisés (`Decimal`, `Timestamp`), du moteur de stockage `InnoDB`, ainsi que de l'ensemble des contraintes, clés primaires et clés étrangères.
+* **Mots-clés / Stack :** `SQL`, `MySQL`, `DDL`, `InnoDB`, `Contraintes`, `Clés Primaires / Étrangères`, `Decimal`.
+
+---
+
+## 🛍️ 3. Product Catalog & Spinning
+* **Lien du dépôt :** [04_product-spinning---laura-ecommerce](https://github.com/Bartel138/04_product-spinning---laura-ecommerce)
+* **Description :** Structuration et gestion du catalogue produits de la marque, définissant les catégories et l'arborescence des articles pour alimenter efficacement le système transactionnel (scripts de génération et gestion en Python et SQL).
+* **Mots-clés / Stack :** `Python`, `SQL`, `Catalogue Produits`, `Taxonomie`, `E-commerce de Luxe`.
+
+---
+
+## 👥 4. Customer Batch Generator
+* **Lien du dépôt :** [05_customer-batch-generator-_laura-ecommerce](https://github.com/Bartel138/05_customer-batch-generator-_laura-ecommerce)
+* **Description :** Développement de scripts en Python pour la génération de données clients par batchs massifs, permettant de simuler le comportement d'une base active d'acheteurs et d'injecter des volumes réalistes.
+* **Mots-clés / Stack :** `Python`, `Génération de Données`, `Batch Processing`, `Simulation CRM`.
+
+---
+
+## 📊 5. Segmentation RFM Avancée & Persistance SQL
+* **Lien du dépôt :** [Segmentation-RFM-Avanc-e-Strat-gie-de-Persistance-SQL](https://github.com/Bartel138/Segmentation-RFM-Avanc-e-Strat-gie-de-Persistance-SQL)
+* **Description :** Implémentation d'un modèle de segmentation client RFM (Récence, Fréquence, Montant) de bout en bout en SQL. Utilisation de sous-requêtes corrélées et d'une stratégie de persistance pour stocker durablement les scores, le score global sur 15 et les segments qualitatifs (`VIP`, `Fidèles`, `Occasionnels`, `Dormants`) directement dans la table client.
+* **Mots-clés / Stack :** `SQL`, `RFM Analysis`, `Sous-requêtes Corrélées`, `Persistance des Données`, `Segmentation CRM`.
+
 ### 📊 1. Analyse et Segmentation Client (SQL / MySQL)
 * **[Accéder au projet et à la documentation complète](https://github.com/Bartel138/sql-sakila-vip-analysis)** : Extraction de la valeur client (segment VIP) sur la base Sakila, résolution de limites relationnelles par jointures, nettoyage de données textuelles et requêtage optimisé.
 * **Outils** : SQL, MySQL Workbench.
