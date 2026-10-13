@@ -46,6 +46,22 @@ Ce portfolio rassemble les projets structurants de l'écosystème technique de l
 * **Description :** Implémentation d'un modèle de segmentation client RFM (Récence, Fréquence, Montant) de bout en bout en SQL. Utilisation de sous-requêtes corrélées et d'une stratégie de persistance pour stocker durablement les scores, le score global sur 15 et les segments qualitatifs (`VIP`, `Fidèles`, `Occasionnels`, `Dormants`) directement dans la table client.
 * **Mots-clés / Stack :** `SQL`, `RFM Analysis`, `Sous-requêtes Corrélées`, `Persistance des Données`, `Segmentation CRM`.
 
+
+# 📈 Sales Performance & Business Analytics (Python)
+
+## 📋 Description Générale
+Projets indépendants d'analyse exploratoire de données (EDA), d'ingénierie de variables (Feature Engineering) et de modélisation visuelle des performances commerciales sous Python.
+
+---
+
+## 📈 1. Analyse Exploratoire & Tendances Temporelles de Ventes
+- **Lien du dépôt :** [sales-data-analysis-python](https://github.com/Bartel138/sales-data-analysis-python)
+- **Description :** Analyse globale des performances de ventes en Python : audit de la qualité des données, Feature Engineering temporel (extraction d'indicateurs via Pandas `.dt`), analyse de la dynamique mensuelle et cartographie de la structure du Chiffre d'Affaires par statut de commande via des Treemaps.
+- **Mots-clés / Stack :** `Python`, `Pandas`, `Matplotlib`, `Seaborn`, `Squarify`, `EDA`, `Feature Engineering`.
+- **Statut :** En cours (Partie 1 validée) 🔄
+
+  
+
 ### 📊 1. Analyse et Segmentation Client (SQL / MySQL)
 * **[Accéder au projet et à la documentation complète](https://github.com/Bartel138/sql-sakila-vip-analysis)** : Extraction de la valeur client (segment VIP) sur la base Sakila, résolution de limites relationnelles par jointures, nettoyage de données textuelles et requêtage optimisé.
 * **Outils** : SQL, MySQL Workbench.
