@@ -60,6 +60,10 @@ Projets indépendants d'analyse exploratoire de données (EDA), d'ingénierie de
 - **Mots-clés / Stack :** `Python`, `Pandas`, `Matplotlib`, `Seaborn`, `Squarify`, `EDA`, `Feature Engineering`.
 - **Statut :** En cours (Partie 1 validée) 🔄
 
+## 2. Analyse des Ventes et Performance Régionale
+* **Description :** Exploration avancée d'un jeu de données de ventes pour évaluer la performance commerciale par zone géographique. Calcul automatisé des parts de marché, du panier moyen et des volumes de commandes à l'aide de Pandas, couplé à une visualisation graphique sur-mesure (Matplotlib & Seaborn).
+* **Technologies :** Python, Pandas, Matplotlib, Seaborn.
+* **Lien du projet :** [Accéder au dépôt GitHub](https://github.com/Bartel138/data-analyst-regional-sales-project)
   
 
 ### 📊 1. Analyse et Segmentation Client (SQL / MySQL)
